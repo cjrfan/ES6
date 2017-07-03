@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/ex.js"],"names":["input","map","item"],"mappings":";;AAAAA,MAAMC,GAAN,CAAU;AAAA,SAAQC,OAAO,CAAf;AAAA,CAAV","file":"ex.js","sourcesContent":["input.map(item => item + 1);"]}
